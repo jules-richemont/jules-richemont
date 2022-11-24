@@ -1,4 +1,4 @@
-👋🏼 Hi! I’m jules-richemont, a student in a double Bsc in computer science and mathematics in a double bachelor's degree at Sorbonne Université
+👋🏼 Hi! I’m jules-richemont, a student in a double Bsc in computer science and mathematics at Sorbonne Université
 
 I’m interested in data science and wish to learn more in machine/deep learning
 
