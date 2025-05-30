@@ -1,6 +1,6 @@
-👋🏼 Hi! I’m jules-richemont, a student in a double Bsc in computer science and mathematics at Sorbonne Université
+👋🏼 Hi! I’m jules-richemont, an aspiring quant trader, and former student in computer science and mathematics at Sorbonne University, financial mathematics at LSE and finance at Dauphine-PSL.
 
-I’m interested in data science and wish to learn more in machine/deep learning
+I’m interested in data science, AI and quantitative modeling.
 
 You can reach me for collaborations:
 - on LinkedIn: https://www.linkedin.com/in/jules-de-richemont/
